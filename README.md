@@ -13,54 +13,29 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:20px;">
+<h3 align="left">Languages and Tools:</h3>
 
-  <!-- Python -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="40" height="40"/>
-    <br/>
-    <sub>Python</sub>
-  </div>
+<p align="left">
 
-  <!-- .NET -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" 
-         alt=".net" width="40" height="40"/>
-    <br/>
-    <sub>.NET</sub>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
+  <b>Python</b>&nbsp;&nbsp;
 
-  <!-- Automation -->
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" 
-         alt="automation" width="40" height="40"/>
-    <br/>
-    <sub>Automation</sub>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="30" height="30"/>
+  <b>.NET</b>&nbsp;&nbsp;
 
-  <!-- n8n -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" 
-         alt="n8n" width="40" height="40"/>
-    <br/>
-    <sub>n8n</sub>
-  </div>
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="30" height="30"/>
+  <b>Automation</b>&nbsp;&nbsp;
 
-  <!-- GoHighLevel (GHL) -->
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71964038?s=200&v=4" 
-         alt="GHL" width="40" height="40"/>
-    <br/>
-    <sub>GHL</sub>
-  </div>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="30" height="30"/>
+  <b>n8n</b>&nbsp;&nbsp;
 
-  <!-- Computer Vision -->
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" 
-         alt="Computer Vision" width="40" height="40"/>
-    <br/>
-    <sub>Computer Vision</sub>
-  </div>
+  <img src="https://avatars.githubusercontent.com/u/71964038?s=200&v=4" width="30" height="30"/>
+  <b>GHL</b>&nbsp;&nbsp;
+
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="30" height="30"/>
+  <b>Computer Vision</b>&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/>
+  <b>React.js</b>
 
 </p>
