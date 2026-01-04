@@ -13,8 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
@@ -38,4 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/>
   <b>React.js</b>
 
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/>
+  <b>AWS</b>&nbsp;&nbsp;
 </p>
